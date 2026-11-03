@@ -1,0 +1,15 @@
+function: say_hello
+positional parameters: none
+keyword parameters: none
+return: None
+
+function: positional_function
+positional parameters: (10, 'hello', True)
+keyword parameters: none
+return: True
+
+function: keyword_function
+positional parameters: none
+keyword parameters: {'name': 'Jocelyn', 'course': 'Python'}
+return: <function logger_decorator at 0x100c6f110>
+
